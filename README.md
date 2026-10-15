@@ -195,6 +195,6 @@ If you reference or build upon SaminOS in academic research, please cite:
   year = {2026},
   publisher = {Zenodo},
   doi = {10.5281/zenodo.1000000},
-  url = {https://github.com/SaminSami/SaminOS}
+  url = {https://github.com/SaminSami73/SaminOS}
 }
 ```
