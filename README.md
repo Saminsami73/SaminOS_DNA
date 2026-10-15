@@ -185,16 +185,3 @@ Example:
 ## License and Citation
 
 SaminOS software and source code are released under the [MIT License](LICENSE). Documentation, diagrams, and sequence specifications are licensed under the Creative Commons Attribution 4.0 International (CC-BY-4.0) License.
-
-If you reference or build upon SaminOS in academic research, please cite:
-
-```bibtex
-@software{sami2026saminos,
-  author = {Samin Yasar Al Sami},
-  title = {SaminOS: A 512-Byte Bare-Metal Operating System and 2,048 Base-Pair Synthetic DNA Genome},
-  year = {2026},
-  publisher = {Zenodo},
-  doi = {10.5281/zenodo.1000000},
-  url = {https://github.com/SaminSami73/SaminOS}
-}
-```
